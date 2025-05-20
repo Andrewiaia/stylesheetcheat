@@ -1,0 +1,64 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+header {
+    display:flex;
+    width:60%;
+    justify-content: center;
+    font-size:40px;
+    font-weight: normal;
+    height:200px;
+    align-content: center;
+    margin:0 auto;
+}
+
+.container {
+    width:60%;
+    margin:40px auto;
+    border: solid 5px gray;
+    margin
+}
+
+.container h1 {
+    font-size:40px;
+}
+
+.colorcont {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.color-container {
+    display:inline-block;
+    margin: 20px auto;
+    width: 32%;
+    text-align: center;
+}
+
+
+.fonts {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.font-cont {
+    display: inline-block;
+    width: 40%;
+    margin: 20px auto;
+    padding-left: 20px;
+}
+
+.headerbox ul{
+    font-size: 30px;
+}
+
+.headerbox li {
+    padding: 20px;
+}
+
+.headerbox {
+    padding-left: 20px;
+}
